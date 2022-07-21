@@ -6,10 +6,10 @@
 - Tools and Technologies Used: Html, CSS, JavaScript, ReactJs
 
 ## Screenshots
-![](https://github.com/iamthedawn/Instantnote/blob/master/img1.PNG)
-![](https://github.com/kartik0406/JotBoard/blob/master/img2.PNG)
-![](https://github.com/kartik0406/JotBoard/blob/master/img3.PNG)
-![](https://github.com/kartik0406/JotBoard/blob/master/img4.PNG)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
 
 ## Instructions to Install and Setup:
 For using this project:
