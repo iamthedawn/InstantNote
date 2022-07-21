@@ -7,9 +7,9 @@
 
 ## Screenshots
 ![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
-![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
-![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
-![](https://github.com/iamthedawn/Instantnote/blob/main/img1.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img2.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img3.png)
+![](https://github.com/iamthedawn/Instantnote/blob/main/img4.png)
 
 ## Instructions to Install and Setup:
 For using this project:
